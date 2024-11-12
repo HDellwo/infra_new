@@ -6,4 +6,4 @@ This Terraform configuration creates a basic AWS infrastructure with two EC2 ins
 
 The networking components (VPC, subnets, route tables, and NAT Gateway) are modularized for better organization and reusability. 
 
-[Image of AWS Infrastructure Diagram](infrastructure.png)
+![Image of AWS Infrastructure Diagram](infrastructure.png)
